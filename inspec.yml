@@ -1,0 +1,9 @@
+name: linux-headers
+title: Habitat Core Plan linux-headers
+maintainer: smarshall@chef.io
+summary: InSpec controls for testing Habitat Core Plan linux-headers
+copyright: smarshall@chef.io
+copyright_email: smarshall@chef.io
+version: 0.1.0
+license: Apache-2.0
+inspec_version: '>= 3.0.25'
