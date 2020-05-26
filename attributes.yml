@@ -1,14 +1,14 @@
-plan_name : "core/linux-headers"
-plan_dir : "/include/"
-plan_files : 
-    - asm
-    - asm-generic
-    - drm
-    - linux
-    - misc
-    - mtd
-    - rdma
-    - scsi
-    - sound
-    - video
-    - xen
+plan_name : "mindnumbing/linux-headers"
+base_dir : "/include/"
+plan_dirs :
+    - "asm"
+    - "asm-generic"
+    - "drm"
+    - "linux"
+    - "misc"
+    - "mtd"
+    - "rdma"
+    - "scsi"
+    - "sound"
+    - "video"
+    - "xen"
