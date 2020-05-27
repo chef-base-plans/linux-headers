@@ -1,4 +1,4 @@
-plan_name : "core/linux-headers"
+plan_name : "linux-headers"
 base_dir : "/include/"
 plan_dirs :
     - "asm"
