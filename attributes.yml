@@ -1,5 +1,5 @@
 plan_name : "linux-headers"
-base_dir : "/include/"
+base_dir : "include"
 plan_dirs :
     - "asm"
     - "asm-generic"
