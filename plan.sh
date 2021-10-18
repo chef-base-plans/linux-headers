@@ -1,12 +1,12 @@
 pkg_name=linux-headers
 pkg_origin=core
-pkg_version=4.20.17
+pkg_version=4.19.212
 pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
 pkg_description="The Linux kernel headers"
 pkg_upstream_url="https://kernel.org"
 pkg_license=('GPL-2.0-or-later')
 pkg_source="https://www.kernel.org/pub/linux/kernel/v4.x/linux-${pkg_version}.tar.xz"
-pkg_shasum="d011245629b980d4c15febf080b54804aaf215167b514a3577feddb2495f8a3e"
+pkg_shasum=5cefdb78ddd29ae5ccda7da803da07d7cc80d68d2f6de967b61712d87f1db643
 pkg_dirname="linux-$pkg_version"
 pkg_deps=()
 pkg_build_deps=(
